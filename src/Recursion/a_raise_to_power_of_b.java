@@ -9,6 +9,9 @@ public class a_raise_to_power_of_b {
         int b = sc.nextInt();
         int ans=poww(a,b);
         System.out.println(ans);
+        int  c = (int) Math.pow(a,b);
+        System.out.println(c);
+
     }
 
     public static int poww(int a,int b) {
