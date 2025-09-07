@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Geeks_for_Geeks.iml" filepath="$PROJECT_DIR$/Java_Geeks_for_Geeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
     </modules>
   </component>
 </project>
